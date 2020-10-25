@@ -20,12 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95877174-7be7-4b64-8fc4-f5f97b6d4b8f" name="Default Changelist" comment="Закомментировал изменения.">
-      <change afterPath="$PROJECT_DIR$/.idea/Sedona.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603605625488</updated>
-      <workItem from="1603605626865" duration="634000" />
+      <workItem from="1603605626865" duration="946000" />
     </task>
     <task id="LOCAL-00001" summary="Закомментировал изменения.">
       <created>1603605732338</created>
@@ -91,6 +85,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Закомментировал изменения." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1773" y="221" key="VCS.ChangeListViewerDialog" timestamp="1603606550961">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1773" y="221" key="VCS.ChangeListViewerDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1603606550961" />
     <state x="1512" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603605808285">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
